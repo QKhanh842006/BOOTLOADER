@@ -1,0 +1,6 @@
+../Core/Src/bootloader.c:7:9:Bootloader_IsAppValid	16	static
+../Core/Src/bootloader.c:22:9:Bootloader_IsOTARequested	16	static
+../Core/Src/bootloader.c:37:19:Bootloader_EraseAppSectors	40	static
+../Core/Src/bootloader.c:64:19:Bootloader_ClearOTAFlag	40	static
+../Core/Src/bootloader.c:89:6:Bootloader_JumpToApp	32	static,ignoring_inline_asm
+../Core/Src/bootloader.c:134:6:Bootloader_ReceiveAndFlash	176	static

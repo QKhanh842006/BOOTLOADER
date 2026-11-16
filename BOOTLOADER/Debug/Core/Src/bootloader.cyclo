@@ -1,0 +1,6 @@
+../Core/Src/bootloader.c:7:9:Bootloader_IsAppValid	3
+../Core/Src/bootloader.c:22:9:Bootloader_IsOTARequested	2
+../Core/Src/bootloader.c:37:19:Bootloader_EraseAppSectors	1
+../Core/Src/bootloader.c:64:19:Bootloader_ClearOTAFlag	1
+../Core/Src/bootloader.c:89:6:Bootloader_JumpToApp	3
+../Core/Src/bootloader.c:134:6:Bootloader_ReceiveAndFlash	13
